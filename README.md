@@ -3,7 +3,7 @@ Este repositorio contiene el material para el "Introducción a las redes neurona
 
 Libros de referencia:
 
-* [Dive into Deep Learning](https://d2l.ai/index.html)
-Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
-* (DEEP LEARNING)[http://alvarestech.com/temp/deep/Deep%20Learning%20by%20Ian%20Goodfellow,%20Yoshua%20Bengio,%20Aaron%20Courville%20(z-lib.org).pdf]
-lan Goodfellow, Yoshua Bengio, and Aaron Courville
+* Dive into Deep Learning: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola [Enlace](https://d2l.ai/index.html)
+
+* DEEP LEARNING: lan Goodfellow, Yoshua Bengio, and Aaron Courville. [Enlace](http://alvarestech.com/temp/deep/Deep%20Learning%20by%20Ian%20Goodfellow,%20Yoshua%20Bengio,%20Aaron%20Courville%20(z-lib.org).pdf)
+
